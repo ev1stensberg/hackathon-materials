@@ -20,7 +20,7 @@ Table of Content:
 2. Download Links
   - [Atom](https://github.com/ev1stensberg/hackathon-materials/blob/master/Atom.md)
   - [Google Chrome](https://github.com/ev1stensberg/hackathon-materials/blob/master/Chrome.md)
-3. [Project Structure Example]()
+3. [Project Structure Example](https://github.com/ev1stensberg/hackathon-materials/tree/Introduction/example-project)
 4. [Workshop-Basic]()
 5. [Workshop-Advanced]()
 6. [Reading Material]()
