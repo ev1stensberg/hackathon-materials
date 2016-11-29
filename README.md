@@ -21,6 +21,6 @@ Table of Content:
   - [Atom](https://github.com/ev1stensberg/hackathon-materials/blob/master/Atom.md)
   - [Google Chrome](https://github.com/ev1stensberg/hackathon-materials/blob/master/Chrome.md)
 3. [Project Structure Example](https://github.com/ev1stensberg/hackathon-materials/tree/Introduction/example-project)
-4. [Workshop-Basic]()
-5. [Workshop-Advanced]()
+4. [Workshop-Basic](https://github.com/ev1stensberg/hackathon-materials/blob/workshop-basic/README.md)
+5. [Workshop-Advanced](https://github.com/ev1stensberg/hackathon-materials/tree/workshop-advanced)
 6. [Reading Material]()
