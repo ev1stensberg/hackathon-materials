@@ -19,8 +19,7 @@ Table of Content:
   - [Programming types]()
 2. Download Links
   - [Atom](https://github.com/ev1stensberg/hackathon-materials/blob/master/Atom.md)
-  - [Chrome]()
-  - [Chrome Canary]()
+  - [Google Chrome](https://github.com/ev1stensberg/hackathon-materials/blob/master/Chrome.md)
 3. [Project Structure Example]()
 4. [Workshop-Basic]()
 5. [Workshop-Advanced]()
