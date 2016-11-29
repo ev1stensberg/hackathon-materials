@@ -1,6 +1,6 @@
 ![logo](https://s18.postimg.org/d14jopjih/unnamed.png)
 
-##### Google Chrome is the best developer tool to check your source code and we will use Google Chrome to analyze our code.
+###### Google Chrome is the best developer tool to check your source code and we will use Google Chrome to analyze our code.
 
 <hr>
 
