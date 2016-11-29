@@ -1,6 +1,6 @@
 #Atom
 
-![Logo](https://postimg.org/image/6izevfreb/)
+![Logo](https://s13.postimg.org/i83ejeid3/Atom_editor_logo_svg.png)
 
 Atom is a text editor. To get started with programming, you will need something to write your programs in and for beginners, Atom is the best one. 
 <hr>
