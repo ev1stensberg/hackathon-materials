@@ -1,28 +1,13 @@
-# hackathon-materials
+#Oppgaver
 
+# 1 - Fortsett på nettsiden du har lagd
 
-Table of Content:
+Lag en knapp og legg til en onClick event handler på knappen
 
-1. Introduction
-  - [Arrays](https://github.com/ev1stensberg/hackathon-materials/blob/Introduction/Arrays.js)
-  - [Objects](https://github.com/ev1stensberg/hackathon-materials/blob/Introduction/Objects.js)
-  - [Numbers](https://github.com/ev1stensberg/hackathon-materials/blob/Introduction/Numbers.js)
-  - [Boolean](https://github.com/ev1stensberg/hackathon-materials/blob/Introduction/Boolean.js)
-  - [Functions](https://github.com/ev1stensberg/hackathon-materials/blob/Introduction/Functions.js)
-  - [Strings](https://github.com/ev1stensberg/hackathon-materials/blob/Introduction/Strings.js)
-  - [Operators](https://github.com/ev1stensberg/hackathon-materials/blob/Introduction/Operators.js)
-  - [Loops](https://github.com/ev1stensberg/hackathon-materials/blob/Introduction/Loops.js)
-  - [Statements](https://github.com/ev1stensberg/hackathon-materials/blob/Introduction/Statements.js)
-  - [Assignments](https://github.com/ev1stensberg/hackathon-materials/blob/Introduction/Assignments.js)
-  - [Functions As Expressions](https://github.com/ev1stensberg/hackathon-materials/blob/Introduction/Function-Expressions.js)
-  - [Expressions](https://github.com/ev1stensberg/hackathon-materials/blob/Introduction/Expressions.js)
-  - [Programming types](https://github.com/ev1stensberg/hackathon-materials/blob/Introduction/Types.js)
-2. Download Links
-  - [Atom](https://github.com/ev1stensberg/hackathon-materials/blob/master/Atom.md)
-  - [Google Chrome](https://github.com/ev1stensberg/hackathon-materials/blob/master/Chrome.md)
-3. [Project Structure Example](https://github.com/ev1stensberg/hackathon-materials/tree/Introduction/example-project)
-4. [Workshop-Html](https://github.com/ev1stensberg/hackathon-materials/blob/html-workshop/README.md)
-5. [Workshop-CSS](https://github.com/ev1stensberg/hackathon-materials/blob/css-workshop/README.md)
-6. [Workshop-Basic](https://github.com/ev1stensberg/hackathon-materials/blob/workshop-basic/README.md)
-7. [Workshop-Advanced](https://github.com/ev1stensberg/hackathon-materials/tree/workshop-advanced)
-8. [Reading Material]()
+# 2 - Legg til DOM noder med JavaScript
+
+Legg til en dom node ved bruk av JavaScript
+
+# 3 - Lag en funksjon i JavaScript
+
+Lag en funksjon som bruker et object, array eller noe du har lagd og manipuler dataen.
