@@ -25,4 +25,4 @@ Table of Content:
 6. [Workshop-JS](https://github.com/ev1stensberg/hackathon-materials/blob/js-workshop/README.md)
 7. [Workshop-Basic](https://github.com/ev1stensberg/hackathon-materials/blob/workshop-basic/README.md)
 8. [Workshop-Advanced](https://github.com/ev1stensberg/hackathon-materials/tree/workshop-advanced)
-9. [Reading Material]()
+9. [Reading Material](https://github.com/ev1stensberg/hackathon-materials/blob/master/RM.md)
