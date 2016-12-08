@@ -14,7 +14,6 @@ Table of Content:
   - [Loops](https://github.com/ev1stensberg/hackathon-materials/blob/Introduction/Loops.js)
   - [Statements](https://github.com/ev1stensberg/hackathon-materials/blob/Introduction/Statements.js)
   - [Assignments](https://github.com/ev1stensberg/hackathon-materials/blob/Introduction/Assignments.js)
-  - [Functions As Expressions](https://github.com/ev1stensberg/hackathon-materials/blob/Introduction/Function-Expressions.js)
   - [Expressions](https://github.com/ev1stensberg/hackathon-materials/blob/Introduction/Expressions.js)
   - [Programming types](https://github.com/ev1stensberg/hackathon-materials/blob/Introduction/Types.js)
 2. Download Links
